@@ -1,3 +1,7 @@
-# Philippe Dior
-I'm bilingual, a tech lover, and a coder. 
-I've been coding for a long time, but this time, I will do it at a higher level.
+# 2023 Goals
+#### Written y: *Philippe Dior*
+Hi! These are a few things I want to accomplish this year:
+- Full Stack Java Script
+- Swift
+
+Simolteniously I want to learn the structure of the Spanish Language and develop a Spanish-teaching App. 

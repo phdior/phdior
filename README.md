@@ -1,6 +1,6 @@
 # Terminal
 #### Written by: *Philippe Dior*
-Hi! These are a few commands:
+Hi! These are a few ***commands***:
 - pwd (print working directory) [see where I'm at]
 - ls (list) [see all the folders and files]
 - cd (change directory) [enter a new folder]
@@ -14,4 +14,4 @@ Hi! These are a few commands:
 -  rmdir (remove Directory) [it only works with empty directories]
 - rm -r (remove recursive) [removes directories]
 
-Simolteniously I want to learn the structure of the Spanish Language and develop a Spanish-teaching App. 
+Simolteniously I want to learn the structure of the Spanish Language and develop a **Spanish-teaching** App. 
